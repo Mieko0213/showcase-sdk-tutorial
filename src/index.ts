@@ -1,5 +1,5 @@
 const showcase = document.getElementById('showcase') as HTMLIFrameElement;
-const key = 'YOUR_KEY_HERE';
+const key = '5q41r3mdxufk6rsp1whxpid5d';
 
 // declare this file is a module
 export {};
